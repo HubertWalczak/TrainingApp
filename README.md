@@ -1,1 +1,1 @@
-# TrainingApp
+In this repository there are various projects, one of them is a stand-alone training application project, while on the measurements branch there is a part for which I was responsible during a team project aimed at creating an interface for measurements.
